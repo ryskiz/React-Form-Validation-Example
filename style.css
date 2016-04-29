@@ -1,6 +1,6 @@
 .black {
   color: black; }
- .content {
+.content {
  	opacity: 0;
  	transition: opacity 1s ease-in;
  }
